@@ -4,4 +4,4 @@ TST-1 #affectsversion
 TST-1 #label
 TST-1 #assign
 Tst-1 #comment some comment234
-TST-1 #badcommand transition test #comment trigger Jira notification email12
+TST-1 #badcommand transition test #comment trigger Jira notification email13
